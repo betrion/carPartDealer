@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/carPartDealer/static/css/main.c59cc657.css",
+    "main.js": "/carPartDealer/static/js/main.d7d101d1.js",
+    "static/media/logo.jpg": "/carPartDealer/static/media/logo.dbaa018752570e3bdf44.jpg",
+    "index.html": "/carPartDealer/index.html",
+    "main.c59cc657.css.map": "/carPartDealer/static/css/main.c59cc657.css.map",
+    "main.d7d101d1.js.map": "/carPartDealer/static/js/main.d7d101d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c59cc657.css",
+    "static/js/main.d7d101d1.js"
+  ]
+}
