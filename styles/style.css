@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap");
+
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.navbar {
+  background-color: #81d6d9;
+  display: flex;
+  width: 100vw;
+  position: relative;
+}
+img {
+  width: 15vh;
+}
+
+.btn--configure {
+  background-color: #81d6d9;
+  border: 1px solid #81d6d9;
+  padding: 1rem;
+}
